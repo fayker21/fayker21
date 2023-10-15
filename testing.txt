@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 asdasd changes 2024 s
 adk hh
 git diff
+=======
+asdasd changes 2024
+>>>>>>> parent of cb1bfb2 (change)
